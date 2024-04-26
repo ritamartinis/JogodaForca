@@ -1,0 +1,169 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Programação Estruturada - Exercícios", "Programação Estruturada - Exercícios.vcxproj", "{7A007F6F-9FA9-403B-B838-E14B43F03EDF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ARQUIVO", "ARQUIVO", "{F30C6E76-8F1F-40DB-ABA8-F2CE9F20D868}"
+	ProjectSection(SolutionItems) = preProject
+		Natal.c = Natal.c
+		RECEITA.c = RECEITA.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ficha00", "Ficha00", "{F8052B70-E802-46C6-A759-455E4D21B5C4}"
+	ProjectSection(SolutionItems) = preProject
+		Ficha00Ex00.c = Ficha00Ex00.c
+		Ficha00Ex01.c = Ficha00Ex01.c
+		Ficha00Ex02.c = Ficha00Ex02.c
+		Ficha00Ex03.c = Ficha00Ex03.c
+		Ficha00Ex04.c = Ficha00Ex04.c
+		Ficha00Ex05.c = Ficha00Ex05.c
+		Ficha00Ex06.c = Ficha00Ex06.c
+		Ficha00Ex07.c = Ficha00Ex07.c
+		Ficha00Ex08.c = Ficha00Ex08.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ficha01", "Ficha01", "{97379643-9AE7-4C8D-BFA7-8E0631615426}"
+	ProjectSection(SolutionItems) = preProject
+		Ficha01Ex04Rita.c = Ficha01Ex04Rita.c
+		Ficha01Ex04RitaV2.c = Ficha01Ex04RitaV2.c
+		Ficha01Ex08.c = Ficha01Ex08.c
+		Ficha01Ex09DO...WHILE.c = Ficha01Ex09DO...WHILE.c
+		Ficha01Ex09Prof.c = Ficha01Ex09Prof.c
+		Ficha01Ex09Rita.c = Ficha01Ex09Rita.c
+		Ficha01Ex09V2.c = Ficha01Ex09V2.c
+		Ficha01Ex18.c = Ficha01Ex18.c
+		Ficha01Ex19.c = Ficha01Ex19.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercícios Rita", "Exercícios Rita", "{DF841927-70D8-4587-8A6A-959061CF7195}"
+	ProjectSection(SolutionItems) = preProject
+		C is the greatest Language.c = C is the greatest Language.c
+		CalculadoraVersãoAndré.c = CalculadoraVersãoAndré.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2ªAULA", "2ªAULA", "{D9B75D70-1370-41A3-B4E3-84FA26CE18A6}"
+	ProjectSection(SolutionItems) = preProject
+		1-HelloWorld.c = 1-HelloWorld.c
+		2-ExercicioIO.c = 2-ExercicioIO.c
+		3-ExercicioPRINTF.c = 3-ExercicioPRINTF.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3ªAULA", "3ªAULA", "{5ABE8627-CE15-41EE-AABF-7F40BF7C20EF}"
+	ProjectSection(SolutionItems) = preProject
+		4-ExercicioSCANF.c = 4-ExercicioSCANF.c
+		5-OutroExercicioSCANF.c = 5-OutroExercicioSCANF.c
+		6-ExercicioOperadores.c = 6-ExercicioOperadores.c
+		7-OutroExercicioOperadores.c = 7-OutroExercicioOperadores.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4ªAULA", "4ªAULA", "{FF488F61-74B1-457B-8F09-DC8ACA1D0E65}"
+	ProjectSection(SolutionItems) = preProject
+		10-OutroExercicioIF.c = 10-OutroExercicioIF.c
+		11-OutroExecercicioOperadoresCombinados.c = 11-OutroExecercicioOperadoresCombinados.c
+		12-ExercícioTempMaxMin.c = 12-ExercícioTempMaxMin.c
+		13-LimitesdasVareConstantes.c = 13-LimitesdasVareConstantes.c
+		14-ExercicioFOR.c = 14-ExercicioFOR.c
+		15-ExercicioWHILE.c = 15-ExercicioWHILE.c
+		16-ExercicioFatorial.c = 16-ExercicioFatorial.c
+		8-ExplicaçãoOperadores.c = 8-ExplicaçãoOperadores.c
+		9-ExercicioIF.c = 9-ExercicioIF.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5ªAULA", "5ªAULA", "{5B805353-DDF8-4699-9E8D-A8CB31676718}"
+	ProjectSection(SolutionItems) = preProject
+		17-ExercicioFunção.c = 17-ExercicioFunção.c
+		18-ExercicioPrototipo.c = 18-ExercicioPrototipo.c
+		19-Recursividade.c = 19-Recursividade.c
+		20-ExercicioFatorialV1.c = 20-ExercicioFatorialV1.c
+		21-ExercicioCalculadoraRita.c = 21-ExercicioCalculadoraRita.c
+		22-ExercicioCalculadoraRúben.c = 22-ExercicioCalculadoraRúben.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7ª AULA", "7ª AULA", "{E0470EA7-F599-486F-B4AB-0D2E66B47C10}"
+	ProjectSection(SolutionItems) = preProject
+		23-ExercicioVetor1.c = 23-ExercicioVetor1.c
+		24-ExercicioVetor2.c = 24-ExercicioVetor2.c
+		25-ExercícioArrayRita.c = 25-ExercícioArrayRita.c
+		26-ExercicioArrayProf.c = 26-ExercicioArrayProf.c
+		27-ExercicioArrayProf2.c = 27-ExercicioArrayProf2.c
+		28-ExercicioArrayFunções.c = 28-ExercicioArrayFunções.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8ªAULA", "8ªAULA", "{C17187C9-BBC0-4E4D-8C2D-79A415799B44}"
+	ProjectSection(SolutionItems) = preProject
+		29-ExercicioFunção2.c = 29-ExercicioFunção2.c
+		30-ExercicioFunçãoReturn.c = 30-ExercicioFunçãoReturn.c
+		31-ExercicioFunTarefa.c = 31-ExercicioFunTarefa.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "9ª AULA", "9ª AULA", "{FF2E7B20-2B74-497F-A3AD-06B3F874775B}"
+	ProjectSection(SolutionItems) = preProject
+		32-ExercicioArray+Fun.c = 32-ExercicioArray+Fun.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10ª AULA", "10ª AULA", "{41DD5871-4A8E-442B-91A8-6E3857536701}"
+	ProjectSection(SolutionItems) = preProject
+		33-ExercicioStrings.c = 33-ExercicioStrings.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "11ª AULA", "11ª AULA", "{0A2423D5-E3D3-4BB4-AADF-3B561B1C4EDF}"
+	ProjectSection(SolutionItems) = preProject
+		TPDIcas.c = TPDIcas.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TP GROUPO", "TP GROUPO", "{CD8D23FC-E1FC-4817-AD38-22B7ED8AA216}"
+	ProjectSection(SolutionItems) = preProject
+		boneco2.c = boneco2.c
+		dia28 - 2.c = dia28 - 2.c
+		dia28.c = dia28.c
+		instruções.c = instruções.c
+		novo.c = novo.c
+		TPGRUPO.c = TPGRUPO.c
+		versãoqueeutinha.c = versãoqueeutinha.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "JogodaForca", "JogodaForca", "{08824F62-396B-4C4D-BAFD-40A442F25C7B}"
+	ProjectSection(SolutionItems) = preProject
+		final.c = final.c
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A007F6F-9FA9-403B-B838-E14B43F03EDF}.Debug|x64.ActiveCfg = Debug|x64
+		{7A007F6F-9FA9-403B-B838-E14B43F03EDF}.Debug|x64.Build.0 = Debug|x64
+		{7A007F6F-9FA9-403B-B838-E14B43F03EDF}.Debug|x86.ActiveCfg = Debug|Win32
+		{7A007F6F-9FA9-403B-B838-E14B43F03EDF}.Debug|x86.Build.0 = Debug|Win32
+		{7A007F6F-9FA9-403B-B838-E14B43F03EDF}.Release|x64.ActiveCfg = Release|x64
+		{7A007F6F-9FA9-403B-B838-E14B43F03EDF}.Release|x64.Build.0 = Release|x64
+		{7A007F6F-9FA9-403B-B838-E14B43F03EDF}.Release|x86.ActiveCfg = Release|Win32
+		{7A007F6F-9FA9-403B-B838-E14B43F03EDF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F8052B70-E802-46C6-A759-455E4D21B5C4} = {F30C6E76-8F1F-40DB-ABA8-F2CE9F20D868}
+		{D9B75D70-1370-41A3-B4E3-84FA26CE18A6} = {F30C6E76-8F1F-40DB-ABA8-F2CE9F20D868}
+		{5ABE8627-CE15-41EE-AABF-7F40BF7C20EF} = {F30C6E76-8F1F-40DB-ABA8-F2CE9F20D868}
+		{FF488F61-74B1-457B-8F09-DC8ACA1D0E65} = {F30C6E76-8F1F-40DB-ABA8-F2CE9F20D868}
+		{5B805353-DDF8-4699-9E8D-A8CB31676718} = {F30C6E76-8F1F-40DB-ABA8-F2CE9F20D868}
+		{E0470EA7-F599-486F-B4AB-0D2E66B47C10} = {F30C6E76-8F1F-40DB-ABA8-F2CE9F20D868}
+		{C17187C9-BBC0-4E4D-8C2D-79A415799B44} = {F30C6E76-8F1F-40DB-ABA8-F2CE9F20D868}
+		{FF2E7B20-2B74-497F-A3AD-06B3F874775B} = {F30C6E76-8F1F-40DB-ABA8-F2CE9F20D868}
+		{41DD5871-4A8E-442B-91A8-6E3857536701} = {F30C6E76-8F1F-40DB-ABA8-F2CE9F20D868}
+		{0A2423D5-E3D3-4BB4-AADF-3B561B1C4EDF} = {F30C6E76-8F1F-40DB-ABA8-F2CE9F20D868}
+		{CD8D23FC-E1FC-4817-AD38-22B7ED8AA216} = {F30C6E76-8F1F-40DB-ABA8-F2CE9F20D868}
+		{08824F62-396B-4C4D-BAFD-40A442F25C7B} = {F30C6E76-8F1F-40DB-ABA8-F2CE9F20D868}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D80DC12A-8FED-45DD-BFD9-D54F87E85117}
+	EndGlobalSection
+EndGlobal
